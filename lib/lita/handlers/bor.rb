@@ -6,7 +6,7 @@ module Lita
     class Bor < Handler
       route(/^bor$/, :bor)
       
-      def bor
+      def bor(response)
         Net::HTTP.get(URI('http://bash.im/forweb/?u'))
       end
     end
