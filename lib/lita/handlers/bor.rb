@@ -4,10 +4,11 @@ require 'net/http'
 module Lita
   module Handlers
     class Bor < Handler
-      route(/^bor$/, :bor)
+      route(/^bor/, :bor)
       
       def bor(response)
-        Net::HTTP.get(URI('http://bash.im/forweb/?u'))
+        str = Net::HTTP.get(URI('http://bash.im/forweb/?u'))
+        response.reply(str)
       end
     end
 
