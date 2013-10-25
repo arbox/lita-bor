@@ -5,10 +5,10 @@ module Lita
   module Handlers
     class Bor < Handler
       route(/^bor$/, :bor)
-    end
-
-    def bor
-      Net::HTTP.get(URI('http://bash.im/forweb/?u'))
+      
+      def bor
+        Net::HTTP.get(URI('http://bash.im/forweb/?u'))
+      end
     end
 
     Lita.register_handler(Bor)
