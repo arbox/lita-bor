@@ -1,6 +1,6 @@
 # lita-bor
 
-<tt>lita-bor</tt> is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows
+<tt>lita-bor</tt> is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows quotes from http://bash.im
 
 ## Installation
 
