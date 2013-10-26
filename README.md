@@ -1,6 +1,6 @@
 # lita-bor
 
-TODO: Add a description of the plugin.
+<tt>lita-bor</tt> is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows
 
 ## Installation
 
@@ -12,11 +12,20 @@ gem "lita-bor"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+This handler needs no configuration for now and can be used with defaults.
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+``` bash
+arbox@alpha:~/work_space/lita/$  lita
+Type "exit" or "quit" to end the session.
+Lita > bor
+С Яндекс.Пробок.
+Сообщение на МКАДе между Волоколамкой и Ленинградкой: "У нас тут пробки нет, у нас тут паркинг"
+Lita > bor
+Из локальной сети:
+-И какая су*а на сервер залила прогу,которая вместо ошибки выдает "Not enough mana"???
+```
 
 ## License
 
