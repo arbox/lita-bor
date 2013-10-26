@@ -1,10 +1,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-bor"
-  spec.version       = "0.0.1.alpha"
+  spec.version       = "0.0.1"
   spec.authors       = ["Andrei Beliankou"]
   spec.email         = ["arbox@yandex.ru"]
-  spec.description   = 'Lita handler for _bash.org_'
-  spec.summary       = 'Lita handler for _bash.org_'
+  spec.description   = 'Lita handler for http://bash.im'
+  spec.summary       = 'Lita handler for http://bash.im'
   spec.homepage      = "http://bu.chsta.be"
   spec.license       = "MIT"
 
