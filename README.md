@@ -1,6 +1,15 @@
 # lita-bor
 
-<tt>lita-bor</tt> is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows quotes from http://bash.im
+{RubyGems}[http://rubygems.org/gems/lita-bor] | {Project Page}[http://bu.chsta.be/projects/lita-bor/] |
+{Source Code}[https://github.com/arbox/lita-bor] | {Bug Tracker}[https://github.com/arbox/lita-bor/issues]
+
+[![Gem Version](https://badge.fury.io/rb/lita-bor.png)](http://badge.fury.io/rb/lita-bor)
+
+[![Build Status](https://travis-ci.org/arbox/lita-bor.png?branch=master)](https://travis-ci.org/arbox/lita-bor)
+[![Code Climate](https://codeclimate.com/github/arbox/lita-bor.png)](https://codeclimate.com/github/arbox/lita-bor)
+[![Coverage Status](https://coveralls.io/repos/arbox/lita-bor/badge.png)](https://coveralls.io/r/arbox/lita-bor)
+
+**lita-bor** is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows quotes from http://bash.im
 
 ## Installation
 
@@ -17,7 +26,7 @@ This handler needs no configuration for now and can be used with defaults.
 ## Usage
 
 ``` bash
-arbox@alpha:~/work_space/lita/$  lita
+arbox@alpha.bu.chsta.be:~/lita/$  lita
 Type "exit" or "quit" to end the session.
 Lita > bor
 С Яндекс.Пробок.
