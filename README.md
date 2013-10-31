@@ -1,10 +1,9 @@
 # lita-bor
 
-{RubyGems}[http://rubygems.org/gems/lita-bor] | {Project Page}[http://bu.chsta.be/projects/lita-bor/] |
-{Source Code}[https://github.com/arbox/lita-bor] | {Bug Tracker}[https://github.com/arbox/lita-bor/issues]
+[RubyGems](http://rubygems.org/gems/lita-bor) | [Project Page](http://bu.chsta.be/projects/lita-bor/) |
+[Source Code](https://github.com/arbox/lita-bor) | [Bug Tracker](https://github.com/arbox/lita-bor/issues)
 
 [![Gem Version](https://badge.fury.io/rb/lita-bor.png)](http://badge.fury.io/rb/lita-bor)
-
 [![Build Status](https://travis-ci.org/arbox/lita-bor.png?branch=master)](https://travis-ci.org/arbox/lita-bor)
 [![Code Climate](https://codeclimate.com/github/arbox/lita-bor.png)](https://codeclimate.com/github/arbox/lita-bor)
 [![Coverage Status](https://coveralls.io/repos/arbox/lita-bor/badge.png)](https://coveralls.io/r/arbox/lita-bor)
