@@ -7,6 +7,7 @@
 [![Build Status](https://travis-ci.org/arbox/lita-bor.png?branch=master)](https://travis-ci.org/arbox/lita-bor)
 [![Code Climate](https://codeclimate.com/github/arbox/lita-bor.png)](https://codeclimate.com/github/arbox/lita-bor)
 [![Coverage Status](https://coveralls.io/repos/arbox/lita-bor/badge.png)](https://coveralls.io/r/arbox/lita-bor)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arbox/lita-bor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 **lita-bor** is a handler for [Lita](https://github.com/jimmycuadra/lita) which shows quotes from http://bash.im
 
@@ -38,7 +39,3 @@ Lita > bor
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arbox/lita-bor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
