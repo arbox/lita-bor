@@ -38,3 +38,7 @@ Lita > bor
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arbox/lita-bor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
